@@ -26,4 +26,3 @@ INSERT INTO `employee` VALUES
 	(4,'Yuri','Petrov','yuri@luv2code.com'),
 	(5,'Juan','Vega','juan@luv2code.com');
 
-roles
