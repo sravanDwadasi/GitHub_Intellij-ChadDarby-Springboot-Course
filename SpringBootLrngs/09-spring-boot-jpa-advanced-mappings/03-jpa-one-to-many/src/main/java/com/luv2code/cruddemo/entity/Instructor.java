@@ -52,7 +52,7 @@ public class Instructor {
 
     }
 
-    public Instructor(String email, String firstName, String lastName) {
+    public Instructor( String firstName, String lastName, String email) {
         this.email = email;
         this.firstName = firstName;
         this.lastName = lastName;

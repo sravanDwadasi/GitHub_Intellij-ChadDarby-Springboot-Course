@@ -34,7 +34,7 @@ public class InstructorDetail {
 
     }
 
-    public InstructorDetail(String hobby, String youtubeChannel) {
+    public InstructorDetail(String youtubeChannel, String hobby) {
         this.hobby = hobby;
         this.youtubeChannel = youtubeChannel;
     }
